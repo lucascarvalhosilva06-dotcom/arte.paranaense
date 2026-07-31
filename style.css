@@ -1,15 +1,21 @@
 body{
     background-color: aquamarine;
     color: yellow;
+    font-family:arial, sans-serif;
 }
 header{
     background-color: #2A0033;
     color:#ADEEC5;
+    text-aling: center;
+    padding: 30px;
 }
-main{
-    background-color: blueviolet;
+h1{
+    font-size: 36px;
 }
-footer{
-    background-color: azure;
+h2{
     color:#FF9B00;
 }
+ p  {
+    font-size: 18px;
+    line-height: 1.6;
+   }
