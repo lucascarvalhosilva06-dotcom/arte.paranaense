@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    color: rgb(2, 2, 2);
+    color: rgb(255, 253, 253);
     font-family:arial, sans-serif;
 }
 header{
@@ -13,7 +13,7 @@ h1{
     font-size: 36px;
 }
 h2{
-    color:#FF9B00;
+    color:#000000;
 }
  p  {
     font-size: 18px;
