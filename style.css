@@ -1,7 +1,7 @@
 body {
     background-color: rgb(136, 248, 211);
     color: rgb(50, 0, 189);
-    font-family: arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
 }
 
@@ -92,7 +92,7 @@ footer {
 button {
     background-color: #6b2d5c;
     color:white;
-    border:nome;
+    border:none;
     padding:10px 15px;
     border-radius: 8px;
     cursor:pointer;
